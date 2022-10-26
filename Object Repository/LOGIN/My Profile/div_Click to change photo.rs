@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click to change photo</name>
+   <tag></tag>
+   <elementGuidId>3a81f997-3b94-4d79-aa81-cd6a5d22dcae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.edit-gravatar__label-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primary']/main/div[2]/div/div/span/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a23d742b-8b55-4129-9d14-a675e5bd8eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-gravatar__label-container</value>
+      <webElementGuid>ce300c1e-0fb5-4a79-bc1e-5486b8804c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to change photo</value>
+      <webElementGuid>a5d31b8f-45de-447c-bd40-d1c34d723733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary&quot;)/main[@class=&quot;profile main&quot;]/div[@class=&quot;card profile__settings&quot;]/div[@class=&quot;edit-gravatar&quot;]/div[1]/span[@class=&quot;file-picker&quot;]/div[@class=&quot;edit-gravatar__image-container&quot;]/div[@class=&quot;edit-gravatar__label-container&quot;]</value>
+      <webElementGuid>6fb8c718-54e8-462f-bb0f-7bbf075d646c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primary']/main/div[2]/div/div/span/div/div[2]</value>
+      <webElementGuid>6c2cc398-db0d-440d-bd15-c96bda3a5ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop to upload profile photo'])[1]/following::div[1]</value>
+      <webElementGuid>199b405c-5589-48ef-8776-db479669ef3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[9]</value>
+      <webElementGuid>c521c137-a904-4d83-8369-7f581536749a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/preceding::div[2]</value>
+      <webElementGuid>41941f3e-12ed-4676-a743-6783159d6526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div[2]</value>
+      <webElementGuid>597b30b3-2be4-47bd-989e-4126118d8cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click to change photo' or . = 'Click to change photo')]</value>
+      <webElementGuid>7fc75d94-a3f0-40d7-8cf9-c9d06dd92180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

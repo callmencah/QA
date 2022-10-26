@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_changemyphoto</name>
+   <tag></tag>
+   <elementGuidId>a2551a77-1514-41a9-95d0-40fe3715e094</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div/div/div/div/figure/div/div[3]/button[3]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
